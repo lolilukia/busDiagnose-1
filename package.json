@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "ajv": "^6.5.5",
+    "ajv": "^6.12.3",
     "echarts": "^4.1.0",
     "element-ui": "^2.3.9",
     "officegen": "^0.4.7",
